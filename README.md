@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hallo 👋
 
 <!--
 **borneelphukan/borneelphukan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+**Motto** - "Dream. Code. Debug. Repeat"   
+**Goal** - Seeking higher education and research opportunities from a top-notch institute of the world in multi-disciplinary fields of Computer Science.  
+**Characteristic** - Highly enthuastic, career-oriented and optimistic.  
