@@ -6,18 +6,18 @@
   <a href="https://www.linkedin.com/in/borneelphukan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://github.com/borneelphukan">
+    <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="sendto:borneelphukan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="GMail Badge"/>
   </a>
 </div>
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=borneelphukan&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
+  Hallo / Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -30,13 +30,13 @@
 
 ### 👨‍💻: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Looking for new opportunities in the field of Frontend or Backend Development or Full Stack Development.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I explore nature 🏞️, photography 📷 and read political and technical progresses around the globe 🌐.
 
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-borneelphukan-red?style=flat&logo=Gmail&logoColor=white)](mailto:borneelphukan@gmail.com)
 
