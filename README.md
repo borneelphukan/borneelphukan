@@ -9,7 +9,7 @@
   <a href="https://github.com/borneelphukan">
     <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="sendto:borneelphukan@gmail.com">
+  <a href="mailto:borneelphukan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="GMail Badge"/>
   </a>
 </div>
