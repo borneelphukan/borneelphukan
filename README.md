@@ -30,13 +30,13 @@
 
 ### 👨‍💻: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany with over 3 years of professional and freelance expertise in Web Development.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: Currently I’m working as a freelance Frontend Developer and contributing to developing scalable and robust web applications with responsive and dynamic user interfaces.
 
-- :seedling: Looking for new opportunities in the field of Frontend or Backend Development or Full Stack Development.
+- :seedling: I am looking for new and exciting projects focusing on large-scale web applications, irrespective of any business domain.
 
-- :zap: In my free time, I explore nature 🏞️, photography 📷 and read political and technical progresses around the globe 🌐.
+- :zap: In my free time, I explore nature 🏞️ and can spend weeks in the wild 🐻, architectural photography 📷 and keep track of global affairs 🌐.
 
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-borneelphukan-red?style=flat&logo=Gmail&logoColor=white)](mailto:borneelphukan@gmail.com)
 
