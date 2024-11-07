@@ -32,7 +32,7 @@
 
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany with over 3 years of professional and freelance expertise in Web Development.
 
-- :telescope: Currently, I’m looking for an opportunity as a Frontend Developer (ReactJS, VueJS, Svelte) and contribute my skills to developing scalable and robust web applications with responsive and dynamic user interfaces and exceptional performance.
+- :telescope: Currently, I’m working as a freelance Frontend Developer at an early-stage startup to hone my skills and primarily looking for a full-time opportunity as a Frontend Developer (ReactJS, VueJS, Svelte) and contribute my skills to developing scalable and robust web applications with responsive and dynamic user interfaces and exceptional performance.
 
 - :seedling: I am looking for new and exciting projects focusing on large-scale web applications, irrespective of any business domain.
 
