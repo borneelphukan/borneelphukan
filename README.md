@@ -17,7 +17,7 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=borneelphukan&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hallo 🥨 / Hello 🇬🇧 
+  Servus 🇩🇪 / Hello 🇬🇧 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -30,13 +30,13 @@
 
 ### 👨‍💻: About Me :
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany with over 3 years of professional and freelance expertise in Web Development.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany with 3+ years of experience in building and contributing to web applications and mobile applications.
 
-- :telescope: Currently, I’m working as a Principle Software Engineer at my own pre-seed early stage startup called Graminate to contribute something meaningful especially to the agricultural industry of India, and primarily looking for a full-time opportunity as a Frontend Developer (ReactJS, VueJS, Svelte) and contribute my skills to developing scalable and robust web applications with responsive and dynamic user interfaces and exceptional performance.
+- :telescope: Currently, I’m working as a Fullstack Software Developer in Pactos, a Munich-based startup with a goal to revolutionize Recruiting, Vendor Management (VMS), Workforce Management (WMS), and Compliance Management in Germany. I am also developing my own B2B SaaS product called Graminate with the goal to assist small scale agriculture farmers of India to manage their agricultural chores and plannings, and something that also contributes to the digitization of the Indian agricultural landscape.
 
-- :seedling: I am looking for new and exciting projects focusing on large-scale web applications, irrespective of any business domain.
+- :seedling: I am constantly looking for new and exciting projects focusing on large-scale web applications, irrespective of any business domain. Feel free to reach me out anytime.
 
-- :zap: In my free time, I explore nature 🏞️ and can spend weeks in the wild 🐻, architectural photography 📷 and keep track of global affairs 🌐.
+- :zap: In my free time, I explore nature 🏞️ and can spend weeks in the wild 🐻, photography 📷 and keep track of global affairs 🌐.
 
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-borneelphukan-red?style=flat&logo=Gmail&logoColor=white)](mailto:borneelphukan@gmail.com)
 
@@ -46,25 +46,20 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 #### Libraries & Framework :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js" alt="Nuxt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40">
 </div>
 
 #### Programming & Databases :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb"  alt="Mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
 </div>
 
 #### Machine Learning :
@@ -80,7 +75,6 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
 </div>
 
 
