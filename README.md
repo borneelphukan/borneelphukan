@@ -32,7 +32,7 @@
 
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany with 3+ years of experience in building and contributing to web applications and mobile applications.
 
-- :telescope: Currently, I’m working as a Fullstack Software Developer in Pactos, a Munich-based startup with a goal to revolutionize Recruiting, Vendor Management (VMS), Workforce Management (WMS), and Compliance Management in Germany. I am also developing my own B2B SaaS product called Graminate with the goal to assist small scale agriculture farmers of India to manage their agricultural chores and plannings, and something that also contributes to the digitization of the Indian agricultural landscape.
+- :telescope: Currently I am developing my own B2B SaaS product called Graminate with the goal to assist small scale agriculture farmers of India to manage their agricultural chores and plannings, and something that also contributes to the digitization of the Indian agricultural landscape. I am also an indie developer building random stuffs to promote adoption of FOSS (Free and Open Source Softwares).
 
 - :seedling: I am constantly looking for new and exciting projects focusing on large-scale web applications, irrespective of any business domain. Feel free to reach me out anytime.
 
