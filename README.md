@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -19,12 +18,8 @@
   <img src="https://komarev.com/ghpvc/?username=borneelphukan&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-<h1 align="center">
-  Servus / Hello
-</h1>
-
 <h3 align="center">
-  Full-Stack Software Engineer | AI Research Enthusiast | Prospective PhD Candidate
+  Full-Stack Software Engineer | AI Research Enthusiast
 </h3>
 
 <p align="center">
@@ -43,52 +38,30 @@ My long-term goal is to pursue a PhD focused on applying AI to either computatio
 
 I am also the co-founder and lead architect of Graminate, an AI-powered Agro-ERP platform being developed in collaboration with Assam Agricultural University.
 
-**Current Interests**
-- Full-Stack Software Engineering
-- Artificial Intelligence & Machine Learning
-- Bioinformatics & Precision Medicine
-- Neuro-Symbolic AI
-- Knowledge Graphs & Semantic Web
-- Decentralized Architectures
-- Privacy-Preserving Systems
-- Open Source Software
+**Current Interests** Full-Stack Software Engineering | Artificial Intelligence & Machine Learning | Bioinformatics & Precision Medicine | Neuro-Symbolic AI | Knowledge Graphs & Semantic Web | Decentralized Architectures | Privacy-Preserving Systems | Open Source Software
 
-**Contact**
-- Email: borneelphukan@gmail.com
-- Website: https://borneelphukan.com
+**Contact** Email: borneelphukan@gmail.com  
+Website: https://borneelphukan.com
 
 ---
 
-## Professional Experience
+## Active Projects
 
-### Fullstack Software Developer Intern | Pactos GmbH
-*Munich, Germany | Oct 2025 – Mar 2026*
+### Graminate: AI-Powered Agro ERP Platform
 
-- Optimized backend services and reduced critical API response times from 12 seconds to approximately 20 milliseconds.
-- Implemented caching and data-fetching strategies for external business intelligence integrations.
-- Developed a Role-Based Access Control (RBAC) system with granular permission management.
-- Contributed to a reusable React and Tailwind component library used across the platform.
+**Role:** Co-Founder & Lead Architect
 
-### Frontend Developer (Working Student) | Golfpost AG
-*Cologne, Germany | Apr 2024 – Mar 2025*
+**Tech Stack** TypeScript, Next.js, Nest.js, PostgreSQL, Prisma, React Native, LiteLLM, Tailwind CSS
 
-- Developed user-facing interfaces for Golfpost Fantasy.
-- Built reusable UI components and responsive layouts.
-- Collaborated on mobile-first user experience improvements and product prototyping.
+**Focus Areas** Agricultural workflow automation, AI-assisted CRM systems, Marketplace integration, Role-based access control, Data-driven operational insights
 
-### Fullstack Developer (Working Student) | V4C Management Consulting GmbH
-*Munich, Germany | Mar 2023 – Mar 2024*
+---
 
-- Developed AI-assisted internal software solutions using modern web technologies.
-- Designed RESTful APIs and optimized backend performance through caching and database improvements.
-- Contributed to code reviews, testing processes, and CI/CD workflows.
+### WearNext: AI-Powered Digital Wardrobe
 
-### Frontend Developer (Working Student) | LeanERA GmbH
-*Leipzig, Germany | Aug 2022 – Jan 2023*
+**Tech Stack** TypeScript, React Native, Nest.js, PostgreSQL, Prisma
 
-- Developed frontend applications using Vue.js, Nuxt.js, and Ionic.
-- Designed and implemented custom video conferencing interfaces.
-- Contributed to multiple cross-platform software products.
+**Focus Areas** Clothing catalog management, Weather-aware recommendations, Calendar-based outfit planning, Mobile-first user experience
 
 ---
 
@@ -106,119 +79,25 @@ Investigating architectures that combine local language models, symbolic reasoni
 
 ---
 
-## Active Projects
-
-### Graminate — AI-Powered Agro ERP Platform
-
-**Role:** Co-Founder & Lead Architect
-
-**Tech Stack**
-- TypeScript
-- Next.js
-- Nest.js
-- PostgreSQL
-- Prisma
-- React Native
-- LiteLLM
-- Tailwind CSS
-
-**Focus Areas**
-- Agricultural workflow automation
-- AI-assisted CRM systems
-- Marketplace integration
-- Role-based access control
-- Data-driven operational insights
-
----
-
-### WearNext — AI-Powered Digital Wardrobe
-
-**Tech Stack**
-- TypeScript
-- React Native
-- Nest.js
-- PostgreSQL
-- Prisma
-
-**Focus Areas**
-- Clothing catalog management
-- Weather-aware recommendations
-- Calendar-based outfit planning
-- Mobile-first user experience
-
----
-
-## Education
-
-### M.Sc. Web Engineering
-**Technische Universität Chemnitz, Germany**
-
-Relevant Areas:
-- Machine Learning
-- Cloud Computing
-- Web Engineering
-- Software Service Engineering
-
-### B.Tech. Computer Science & Systems Engineering
-**KIIT University, India**
-
-Relevant Areas:
-- Data Structures & Algorithms
-- Database Management Systems
-- Operating Systems
-- Software Engineering
-
----
-
 ## Technical Skills
 
 ### Languages
-- TypeScript
-- JavaScript
-- Python
-- Java
-- SQL
+TypeScript | JavaScript | Python | Java | SQL
 
 ### Frontend
-- React
-- Next.js
-- Vue.js
-- Nuxt.js
-- React Native
-- Tailwind CSS
+React | Next.js | Vue.js | Nuxt.js | React Native | Tailwind CSS
 
 ### Backend
-- Node.js
-- Nest.js
-- Express.js
-- REST APIs
-- GraphQL
+Node.js | Nest.js | Express.js | REST APIs | GraphQL
 
 ### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
+PostgreSQL | MySQL | MongoDB | Redis
 
 ### Cloud & DevOps
-- Docker
-- CI/CD
-- Linux
-- GitHub Actions
+Docker | CI/CD | Linux | GitHub Actions
 
 ### Research & AI
-- PyTorch
-- Machine Learning
-- Large Language Models
-- Knowledge Graphs
-- Semantic Web Technologies
-
----
-
-## Languages
-
-- English — C1
-- German — B1
+PyTorch | Machine Learning | Large Language Models | Knowledge Graphs | Semantic Web Technologies
 
 ---
 
